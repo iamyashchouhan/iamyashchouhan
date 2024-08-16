@@ -27,7 +27,16 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Yash Chouhan<br>🚀 Mobile & Web Developer | 👨‍💻 Google Developer Expert for Android<br>Passionate about crafting seamless digital experiences across platforms.<br><br>👦 Google Developer Expert @Android<br>💼 Sr. Android Developer @ YMG Developers.<br>👨‍💻 I develop Mobile, Web apps and Backend server.<br>Loves 🎵 and 🎹.</p>
+<p align="left">
+  👋 Hi, I'm Yash Chouhan<br>
+  🚀 Mobile & Web Developer | 👨‍💻 Google Developer Expert for Android<br>
+  Passionate about crafting seamless digital experiences across platforms.<br><br>
+  👦 Google Developer Expert @Android<br>
+  💼 Sr. Android Developer @ <a href="https://ymg-developers.com" target="_blank">YMG Developers</a>.<br>
+  👨‍💻 I develop Mobile, Web apps, and Backend servers.<br>
+  Loves 🎵 and 🎹.
+</p>
+
 
 ###
 
